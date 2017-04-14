@@ -1,7 +1,7 @@
 {
     "name": "pratikshah99/welcomeworld",
     "description": "My First Demo Composer Project",
-	"version" : "1.0",
+	"version" : "1.0.0",
     "authors": [
         {
             "name": "Pratik Shah",
